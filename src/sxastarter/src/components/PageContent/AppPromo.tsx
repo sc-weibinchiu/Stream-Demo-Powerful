@@ -23,7 +23,7 @@ export type AppPromoProps = {
 const ComponentDefault = (props: AppPromoProps): JSX.Element => (
   <div className={`component ${props.params?.styles}`.trimEnd()}>
     <div className="component-content">
-      <span className="is-empty-hint">AppPromo</span>
+      <span className="is-empty-hint">AppPromo WB 1</span>
     </div>
   </div>
 );
