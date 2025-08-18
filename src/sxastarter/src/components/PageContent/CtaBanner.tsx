@@ -23,7 +23,7 @@ interface Fields {
   Image: ImageField;
   Icon: ImageField;
 }
-//wb 12
+//wb 123
 export type CtaBannerProps = ComponentProps & {
   params: { [key: string]: string };
   fields: Fields;
