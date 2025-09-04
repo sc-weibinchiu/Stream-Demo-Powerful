@@ -14,7 +14,7 @@ interface Fields {
   Text: RichTextField;
   Image: ImageField;
 }
-
+//1
 export type AppPromoProps = {
   params: { [key: string]: string };
   fields: Fields;
