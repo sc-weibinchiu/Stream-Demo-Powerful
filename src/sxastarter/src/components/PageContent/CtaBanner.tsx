@@ -23,7 +23,7 @@ interface Fields {
   Image: ImageField;
   Icon: ImageField;
 }
-//fresh-wb-1-2
+//multi-tenant-same-repo-1
 
 export type CtaBannerProps = ComponentProps & {
   params: { [key: string]: string };

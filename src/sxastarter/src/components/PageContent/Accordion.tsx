@@ -12,7 +12,7 @@ export type AccordionItemProps = {
   name: string;
   url: string;
 };
-//fresh-wb-1-2
+//multi-tenant-same-repo-1
 export type AccordionProps = {
   params: { [key: string]: string };
   fields: {
