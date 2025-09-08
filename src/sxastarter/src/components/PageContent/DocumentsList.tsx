@@ -30,7 +30,7 @@ export type DocumentsListProps = {
   params: { [key: string]: string };
   fields: Fields;
 };
-//test new-tenant-wb1
+//fresh-wb-1-2
 const ComponentDefault = (props: DocumentsListProps): JSX.Element => (
   <div className={`component ${props.params?.styles}`.trimEnd()}>
     <div className="component-content">
