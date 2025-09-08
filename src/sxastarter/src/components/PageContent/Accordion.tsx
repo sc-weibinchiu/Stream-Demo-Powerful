@@ -12,7 +12,7 @@ export type AccordionItemProps = {
   name: string;
   url: string;
 };
-//new-tenant-wb1-1-2-3-4-5-6
+//new-tenant-wb1-1-2-3-4-5-6-7
 export type AccordionProps = {
   params: { [key: string]: string };
   fields: {
